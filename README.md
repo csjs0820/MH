@@ -2,6 +2,6 @@
 
   *typo
   
-  https://github.com/Samsung/TizenRT/pull/2498
+  https://github.com/Samsung/TizenRT/pull/2501
   
   *URL
