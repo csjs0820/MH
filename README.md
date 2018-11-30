@@ -19,3 +19,6 @@
   wifi manager build capture(fail)
   reason : The repository is empty.
 *![2018-11-30 14-32-32](https://user-images.githubusercontent.com/45279159/49274894-10a44f00-f4bd-11e8-984c-2f177d6acd46.png)
+
+
+![2018-11-30 20-34-16](https://user-images.githubusercontent.com/45279159/49287039-5f62e080-f4df-11e8-85dc-989132f34109.png)
