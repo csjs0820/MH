@@ -2,7 +2,7 @@
 
   *Fix typo
   
-  https://github.com/Samsung/TizenRT/pull/2501
+  https://github.com/Samsung/TizenRT/pull/2514
   
   *Build project
   
