@@ -18,9 +18,9 @@
   
   ![nnfw build](https://user-images.githubusercontent.com/45279159/49289030-cbe0de00-f4e5-11e8-999e-bfb6a982a972.png)
 
-  wifi manager build capture(fail)
-  reason : The repository is empty.
-*![2018-11-30 14-32-32](https://user-images.githubusercontent.com/45279159/49274894-10a44f00-f4bd-11e8-984c-2f177d6acd46.png)
+  wifi manager build capture(success)
+  
+  ![wifi-manager build](https://user-images.githubusercontent.com/45279159/49289088-00549a00-f4e6-11e8-94df-8053d74eb818.png)
 
 
 
