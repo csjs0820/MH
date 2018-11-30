@@ -4,10 +4,7 @@
   
   https://github.com/Samsung/TizenRT/pull/2514
   
-  ![2018-11-30 21-38-35](https://user-images.githubusercontent.com/45279159/49289853-722de300-f4e8-11e8-958a-cbeb6015fb4c.png)
-
-
-![2018-11-30 21-50-32](https://user-images.githubusercontent.com/45279159/49290389-38f67280-f4ea-11e8-853a-e837bf978b2a.png)
+ 
 
   
   *Build project
