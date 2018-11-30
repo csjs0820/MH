@@ -22,3 +22,9 @@
 
 
 ![2018-11-30 20-34-16](https://user-images.githubusercontent.com/45279159/49287039-5f62e080-f4df-11e8-85dc-989132f34109.png)
+
+
+![2018-11-30 20-34-16](https://user-images.githubusercontent.com/45279159/49287039-5f62e080-f4df-11e8-85dc-989132f34109.png)
+![2018-11-30 20-55-14](https://user-images.githubusercontent.com/45279159/49288100-2593d900-f4e3-11e8-83dd-122bc5922231.png)
+![2018-11-30 20-43-38](https://user-images.githubusercontent.com/45279159/49288107-2a588d00-f4e3-11e8-880f-d2ed3fd8bc9b.png)
+![2018-11-30 20-45-25](https://user-images.githubusercontent.com/45279159/49288112-2dec1400-f4e3-11e8-8a6e-ddce9a04d101.png)
