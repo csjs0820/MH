@@ -12,7 +12,7 @@
   
   tensorflow-lite build capture
   
-  ![2018-11-30 21-36-00](https://user-images.githubusercontent.com/45279159/49289730-0b102e80-f4e8-11e8-9451-b6dd60236223.png)
+  ![2018-11-30 21-38-35](https://user-images.githubusercontent.com/45279159/49289853-722de300-f4e8-11e8-958a-cbeb6015fb4c.png)
   
   nnfw build capture
   
